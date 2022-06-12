@@ -1,3 +1,5 @@
 # Casos de Uso
 
 ### Se omiten algunas funcionalidades, ya sea porque no tienen uso, o poseen funcionalidades duplicadas.
+
+![](VentanaLiceo.png) ![](VentanaPersonal.png) ![](VentanaAlumnos.png)
