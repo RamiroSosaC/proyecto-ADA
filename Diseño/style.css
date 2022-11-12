@@ -1,0 +1,58 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #8dd5ff;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
+
+    .gradient-customT {
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: linear-gradient(to right, rgba(37, 117, 252, 1), rgb(71, 98, 248), rgba(37, 117, 252, 1))
+    }
+
+    body {
+        background-color: #96bdf8;
+        }
+
+
+
+    .gradient-customS {            
+        /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        background: linear-gradient(to right, rgb(30, 109, 30), rgb(49, 189, 102), rgb(30, 109, 30))
+    }
+
+
+    .dropdown-submenu {
+        position: relative;
+      }
+      
+      .dropdown-submenu .dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-top: -1px;
+      }
+            
+    
+    .btnM {
+      margin: 1rem;
+    }
+    
+    .p{
+        padding: 20px;
+    }
+
+    .p2{
+        padding: 10px;
+    }
+
+    .pTop{
+        padding-top: 20px;
+    }
+
+    .hColor{
+        color:aliceblue;
+    }
