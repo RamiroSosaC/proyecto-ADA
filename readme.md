@@ -1,5 +1,4 @@
-# PROYECTO ADA - SISTEMA CORPORATIVO DGES ![](Diseño/logo.png  | width=50)
-
+# PROYECTO ADA - SISTEMA CORPORATIVO DGES <img src="Diseño/logo.png" width=50% height=50%>
 
 **Carpeta Casos de Uso** --> Se utiliza para guardar los archivos.dia con los casos de uso de las diferentes ventanas a las que tiene acceso un administrativo/a.
 
